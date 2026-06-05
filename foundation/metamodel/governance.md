@@ -59,3 +59,33 @@ Enterprise adopters map Genshi entities to:
 - Engineering standards bodies
 
 Genshi does not replace those bodies—it supplies vocabulary and artifact types they should reference.
+
+---
+
+## Governance hierarchy
+
+Authority flows **down** from constitutional text. Evidence flows **up** from artifacts to capability.
+
+```text
+Constitutional authority
+  Manifesto
+    └── Principle (foundation steward)
+          └── Decision (architecture council + maintainer acceptance)
+                └── Artifact promotion (system steward + lifecycle gates)
+                      └── Exception (recorded, expiring, linked to Decision)
+
+Conflict resolution (framework repo)
+  Steward discussion → Architecture council → Maintainer (documented)
+
+Adopter mapping (organizational)
+  Genshi ontology → enterprise architecture / product governance forums
+```
+
+**Governance is not an entity.** Per [glossary: governance](../glossary/governance.md), governance is the organizational capability that authorizes:
+
+- Decision acceptance and supersession
+- Lifecycle transitions per entity type
+- Exception recording with expiry
+- Owner assignment and deprecation
+
+Roles in this document attach to entity **actions**, not to a Governance Rule entity. Constraint knowledge lives in **ContentRule** and **AccessibilityRule** (knowledge-asset specializations). The `foundation/governance/` folder documents framework roles and operating rules—not a separate ontological type.
