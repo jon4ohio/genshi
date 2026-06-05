@@ -8,7 +8,7 @@ The project explores how design systems can move beyond UI libraries and become 
 
 ## Status
 
-**Framework v0.2.0** — Phase 1 foundations complete; Phase 2 system architecture in progress.
+**Framework v0.2.1** — Phase 1 foundations complete; Phase 2 system architecture in progress.
 
 Phase 1 delivered principles, governance, metamodel ontology, glossary, and the decision framework (ADR-0001 through ADR-0006). Phase 2 adds operations canon, system taxonomy, and metadata standards.
 
@@ -84,7 +84,7 @@ genshi/
 
 This structure may evolve. Binding decisions are recorded in [`evolution/decisions/`](evolution/decisions/).
 
-No application implementation code at v0.2.0.
+No application implementation code at v0.2.1.
 
 ## Start Reading
 

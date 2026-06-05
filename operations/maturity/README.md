@@ -12,6 +12,7 @@ Level definitions and progression criteria for interpreting [assessment](../asse
 | Document | Purpose |
 |----------|---------|
 | [framework.md](framework.md) | Maturity levels, trust types, below Aligned, progression, regression, canon scope |
+| [validation-scenarios.md](validation-scenarios.md) | Maintainer validation artifact (not canon)—inter-rater scenarios for level classification |
 
 ## Levels (summary)
 

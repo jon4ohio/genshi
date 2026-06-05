@@ -4,7 +4,7 @@ Thank you for your interest in contributing.
 
 ## Project Status
 
-**Framework v0.2.0** — Phase 1 foundations complete; Phase 2 system architecture in progress.
+**Framework v0.2.1** — Phase 1 foundations complete; Phase 2 system architecture in progress.
 
 Phase 2 areas (adoption, lifecycle stubs; component and pattern taxonomy) may evolve significantly as the framework matures.
 

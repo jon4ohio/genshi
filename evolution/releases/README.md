@@ -4,7 +4,7 @@ Framework versioning, changelogs, compatibility notes, and release process.
 
 ## Current version
 
-**Framework v0.2.0** — see [CHANGELOG](CHANGELOG.md).
+**Framework v0.2.1** — see [CHANGELOG](CHANGELOG.md).
 
 ## Versioning policy
 
@@ -16,4 +16,4 @@ Framework version is independent of any future npm packages or tooling.
 
 ## Tags
 
-Releases are tagged on `main` as `v0.x.y` (e.g. `v0.2.0`).
+Releases are tagged on `main` as `v0.x.y` (e.g. `v0.2.1`).
