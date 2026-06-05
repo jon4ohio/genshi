@@ -10,4 +10,5 @@ Canonical intellectual base of the Genshi framework: why it exists, what it beli
 | [principles/](principles/) | Normative beliefs with testable implications |
 | [glossary/](glossary/) | Canonical vocabulary for governance and machine consumers |
 | [metamodel/](metamodel/) | Ontology, entities, relationships, dependencies, lifecycle |
-| [governance/](governance/) | Framework-level roles and decision rights |
+| [governance/](governance/) | Framework charter, roles, change discipline |
+| [canon-precedence.md](canon-precedence.md) | Layer authority order and conflict resolution |

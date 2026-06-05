@@ -24,4 +24,4 @@ Machine-readable knowledge must be distinguishable from presentation and code. W
 
 ## Genshi Interpretation
 
-Tokens are knowledge assets (Principle 04). Content rules and accessibility rules are knowledge-primary artifacts in the metamodel. Platform aliases are subordinate exports, not knowledge-assets themselves.
+Tokens are knowledge assets (Principle 04). [Content rules](content-rule.md) and [accessibility rules](accessibility-rule.md) are knowledge-primary specializations. Platform aliases are subordinate exports, not knowledge-assets themselves.

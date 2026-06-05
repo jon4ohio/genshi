@@ -10,8 +10,8 @@ Each entity has a stable ID prefix (`principle:01`, `adr:0003`, `enh:0001`, `rel
 |--------|----------|-------------------|
 | **Principle** | [principle](../../glossary/principle.md) | `foundation/principles/` |
 | **Decision** | [decision](../../glossary/decision.md) | `evolution/decisions/` |
-| **Enhancement** | — | `evolution/enhancements/` |
-| **Release** | — | `evolution/releases/` |
+| **Enhancement** | [enhancement](../../glossary/enhancement.md) | `evolution/enhancements/` |
+| **Release** | [release](../../glossary/release.md) | `evolution/releases/` |
 
 ## Required attributes
 

@@ -3,7 +3,8 @@
 Canonical definitions for Genshi. This layer is governance infrastructure: future metamodels, decision records, assessments, and machine consumers depend on these terms.
 
 **Upstream:** [Manifesto](../thesis/manifesto.md)  
-**Related:** [Metamodel](../metamodel/README.md) (entities instantiate this language)
+**Related:** [Metamodel](../metamodel/README.md) (entities instantiate this language)  
+**Precedence:** [Canon layer precedence](../canon-precedence.md)
 
 ## Purpose
 
@@ -23,10 +24,11 @@ Canonical definitions for Genshi. This layer is governance infrastructure: futur
 | Layer | Terms |
 |-------|-------|
 | Scope | [design-system](design-system.md), [framework](framework.md) |
-| Normative | [principle](principle.md), [decision](decision.md) |
+| Normative | [principle](principle.md), [decision](decision.md), [enhancement](enhancement.md), [release](release.md) |
 | Semantic | [meaning](meaning.md), [interpretive-debt](interpretive-debt.md) |
-| Outputs | [artifact](artifact.md), [knowledge-asset](knowledge-asset.md), [token](token.md), [component](component.md), [pattern](pattern.md) |
-| Control | [governance](governance.md), [lifecycle](lifecycle.md), [capability](capability.md) |
+| Outputs | [artifact](artifact.md), [knowledge-asset](knowledge-asset.md), [token](token.md), [component](component.md), [pattern](pattern.md), [content-rule](content-rule.md), [accessibility-rule](accessibility-rule.md) |
+| Control | [governance](governance.md), [lifecycle](lifecycle.md), [capability](capability.md), [exception](exception.md) |
+| Operational | [assessment](assessment.md), [practice](practice.md) |
 
 ## Index
 
@@ -38,6 +40,8 @@ Canonical definitions for Genshi. This layer is governance infrastructure: futur
 | capability | Organizational ability a design system enables |
 | principle | Normative belief with testable implications |
 | decision | Binding organizational choice with recorded rationale |
+| enhancement | Proposed framework or canon change before commitment |
+| release | Versioned aggregation of canon changes |
 | meaning | Shared semantic intent artifacts must preserve |
 | interpretive-debt | Accumulated gap between intended meaning and actual understanding or use |
 | artifact | Managed output evidencing that a design system exists |
@@ -45,7 +49,12 @@ Canonical definitions for Genshi. This layer is governance infrastructure: futur
 | token | Named unit of committed design knowledge |
 | component | Composable contract for a UI element |
 | pattern | Recurring composition of components and behavior |
+| content-rule | Governed voice, terminology, and editorial constraints |
+| accessibility-rule | Governed inclusive requirements and verification criteria |
 | lifecycle | Governed states and transitions of entities over time |
+| assessment | Instrument that operationalizes principles with evidence |
+| practice | Repeatable operational method without replacing decisions |
+| exception | Recorded, time-bounded deviation from canon with decision link |
 
 ## Decision-centric stack (reference)
 
@@ -53,4 +62,4 @@ Canonical definitions for Genshi. This layer is governance infrastructure: futur
 Decision → Token → Component → Pattern
 ```
 
-Governance and lifecycle apply across all artifact types. Meaning is the property the stack must preserve; interpretive-debt measures failure to preserve it.
+Governance and lifecycle apply across all artifact types. Meaning is the property the stack must preserve; interpretive-debt measures failure to preserve it. Assessments make both observable ([operations/assessment/framework.md](../../operations/assessment/framework.md)).

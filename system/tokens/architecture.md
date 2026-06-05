@@ -4,13 +4,14 @@ Conceptual architecture for design tokens in Genshi. This is not a syntax specif
 
 **Binding:** [ADR-0003](../../evolution/decisions/ADR-0003-decision-centric-architecture.md)  
 **Principle:** [04 — Tokens as Knowledge](../../foundation/principles/04-tokens-as-knowledge.md)  
-**Metamodel:** [Token entity](../../foundation/metamodel/entities.md), [Relationships](../../foundation/metamodel/relationships.md)
+**Glossary:** [token](../../foundation/glossary/token.md) (canonical definition)  
+**Metamodel:** [Token entity](../../foundation/metamodel/entities/artifacts.md), [Relationships](../../foundation/metamodel/relationships.md)
 
 ---
 
 ## Definition
 
-A **token** is a unit of committed design knowledge: a named semantic agreement with documented meaning, owner, lifecycle, and links to the decisions that justify it.
+See [glossary: token](../../foundation/glossary/token.md). This document describes how tokens sit in the decision-centric stack and semantic tiers—not a second definition.
 
 Tokens are not variables. Variables are exports.
 

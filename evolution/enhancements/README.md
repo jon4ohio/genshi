@@ -6,4 +6,4 @@ Framework enhancement proposals (design and discussion before commitment).
 
 | ID | Title | Status |
 |----|-------|--------|
-| [ENH-0001](ENH-0001-glossary-metamodel-alignment.md) | Glossary–Metamodel Alignment | accepted (partial) |
+| [ENH-0001](ENH-0001-glossary-metamodel-alignment.md) | Glossary–Metamodel Alignment | accepted |

@@ -7,8 +7,8 @@ Capability, Assessment, and Practice. See [ontology.md](../ontology.md) for purp
 | Entity | Glossary | Instance location |
 |--------|----------|-------------------|
 | **Capability** | [capability](../../glossary/capability.md) | `reference-models/` (future), `operations/` |
-| **Assessment** | — | `operations/assessment/` |
-| **Practice** | — | `operations/`, `foundation/governance/` |
+| **Assessment** | [assessment](../../glossary/assessment.md) | `operations/assessment/` |
+| **Practice** | [practice](../../glossary/practice.md) | `operations/`, `foundation/governance/` |
 
 Capability is organizational, not technical. Publication of artifacts does not prove capability exists—adoption and governance do.
 

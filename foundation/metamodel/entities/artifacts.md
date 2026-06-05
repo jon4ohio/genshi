@@ -23,8 +23,8 @@ Artifact (abstract)
 | **Artifact** | [artifact](../../glossary/artifact.md) | — (abstract) | Metamodel only |
 | **KnowledgeAsset** | [knowledge-asset](../../glossary/knowledge-asset.md) | Yes (abstract) | Metamodel only |
 | **Token** | [token](../../glossary/token.md) | Yes | `system/tokens/` |
-| **ContentRule** | — | Yes | `system/content/` |
-| **AccessibilityRule** | — | Yes | `system/accessibility/` |
+| **ContentRule** | [content-rule](../../glossary/content-rule.md) | Yes | `system/content/` |
+| **AccessibilityRule** | [accessibility-rule](../../glossary/accessibility-rule.md) | Yes | `system/accessibility/` |
 | **Component** | [component](../../glossary/component.md) | No (behavior contract) | `system/components/` |
 | **Pattern** | [pattern](../../glossary/pattern.md) | No (composition) | `system/patterns/` |
 
