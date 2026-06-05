@@ -5,7 +5,7 @@
 **Status:** accepted  
 **Tier:** 2 (major)  
 **Author:** Genshi maintainers (founding)  
-**Target release:** 0.1.0  
+**Target release:** 0.2.0  
 **Resolved by:** [ADR-0004](../decisions/ADR-0004-metamodel-ontology.md), [ADR-0005](../decisions/ADR-0005-glossary-entity-term-extension.md)
 
 ## Context

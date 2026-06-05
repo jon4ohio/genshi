@@ -2,7 +2,7 @@
 
 ## Project maturity
 
-Genshi is in its **foundational architecture phase**. The repository is primarily **documentation and framework canon** — not executable application software.
+Genshi is at **framework v0.2.0** (Phase 1 complete; Phase 2 in progress). The repository is primarily **documentation and framework canon** — not executable application software.
 
 There is limited attack surface today. As tooling, automation, and reference implementations are added, this policy will be updated.
 
@@ -20,7 +20,7 @@ Include:
 - Description of the issue
 - Steps to reproduce (if applicable)
 - Impact assessment
-- Affected paths or versions (e.g. framework v0.1.0, specific tool)
+- Affected paths or versions (e.g. framework v0.2.0, specific tool)
 
 For Code of Conduct concerns, use subject line `Code of Conduct`.
 

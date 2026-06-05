@@ -18,7 +18,7 @@ Documentation portal for readers. **Canon** lives in `foundation/`, `system/`, `
 
 1. [Manifesto](../foundation/thesis/manifesto.md)  
 2. [Glossary](../foundation/glossary/README.md)  
-3. ADR-0001 → ADR-0002 → ADR-0003 → ADR-0004 → ADR-0005  
+3. ADR-0001 → ADR-0002 → ADR-0003 → ADR-0004 → ADR-0005 → ADR-0006  
 4. [Principles](../foundation/principles/README.md) (01–06)  
 5. [Canon precedence](../foundation/canon-precedence.md)  
 6. [Metamodel](../foundation/metamodel/README.md)  
@@ -27,4 +27,4 @@ Documentation portal for readers. **Canon** lives in `foundation/`, `system/`, `
 
 ## Releases
 
-- [CHANGELOG](../evolution/releases/CHANGELOG.md) — framework v0.1.0
+- [CHANGELOG](../evolution/releases/CHANGELOG.md) — framework v0.2.0

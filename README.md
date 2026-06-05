@@ -8,13 +8,13 @@ The project explores how design systems can move beyond UI libraries and become 
 
 ## Status
 
-Genshi is currently in its **foundational architecture phase** (framework v0.1.0).
+**Framework v0.2.0** — Phase 1 foundations complete; Phase 2 system architecture in progress.
 
-Core concepts, terminology, repository structure, governance models, and implementation approaches are actively evolving.
+Phase 1 delivered principles, governance, metamodel ontology, glossary, and the decision framework (ADR-0001 through ADR-0006). Phase 2 adds operations canon, system taxonomy, and metadata standards.
 
-**The framework should not yet be considered stable.**
+**The framework should not yet be considered stable for production adoption.**
 
-Early contributors should expect significant changes as foundational decisions are refined.
+Contributors should expect change in Phase 2 stubs (maturity, adoption, lifecycle) and deferred items (schemas, tooling).
 
 ## What Genshi Is
 
@@ -84,7 +84,7 @@ genshi/
 
 This structure may evolve. Binding decisions are recorded in [`evolution/decisions/`](evolution/decisions/).
 
-No application implementation code at v0.1.0.
+No application implementation code at v0.2.0.
 
 ## Start Reading
 
@@ -118,17 +118,18 @@ The project values thoughtful evolution over rapid expansion.
 
 Directional — not fixed commitments:
 
-### Phase 1 — Foundations (current)
+### Phase 1 — Foundations ✓ Complete
 
 - Core principles
-- Governance model
+- Governance model and charter
 - Repository structure
-- Metamodel definition
-- Decision framework
+- Metamodel ontology and glossary alignment
+- Decision framework (ADR-0001 through ADR-0006)
+- Canon precedence
 
-### Phase 2 — System Architecture
+### Phase 2 — System Architecture (in progress)
 
-- Operations canon (lifecycle, adoption, assessment, maturity)
+- Operations canon — [assessment](operations/assessment/framework.md) shipped; lifecycle, adoption, maturity remain stubs
 - Component and pattern taxonomy
 - Metadata standards
 
