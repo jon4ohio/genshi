@@ -37,3 +37,4 @@ Repeated debate, contradictory components, and unmaintainable tokens are symptom
 
 - [Manifesto §3 — Why most design systems fail](../thesis/manifesto.md#3-why-most-design-systems-fail)
 - [Manifesto §5 — What future Genshi is working toward](../thesis/manifesto.md#5-what-future-genshi-is-working-toward)
+- [ADR-0003 — Decision-centric architecture](../../evolution/decisions/ADR-0003-decision-centric-architecture.md)

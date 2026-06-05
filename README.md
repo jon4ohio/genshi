@@ -15,3 +15,13 @@ Technology agnostic. Governance driven. Architecture first.
 | [`docs/`](docs/) | Published documentation portal |
 
 No implementation code in this repository. Reference implementations and tooling may follow in later phases.
+
+## Canon (start here)
+
+1. [Manifesto](foundation/thesis/manifesto.md)
+2. [Decisions](evolution/decisions/index.md) — ADR-0001 through ADR-0003
+3. [Principles](foundation/principles/README.md)
+4. [Metamodel](foundation/metamodel/README.md)
+5. [Token architecture](system/tokens/architecture.md)
+
+Framework version **0.1.0** — see [CHANGELOG](evolution/releases/CHANGELOG.md).
