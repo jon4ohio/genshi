@@ -32,4 +32,4 @@ Instruments and methods for evaluating design system health, semantic discipline
 | Governed | + lifecycle_compliance, sample invalid-state review |
 | Operational | + semantic_health, interpretive_debt, maturity evidence |
 
-See [framework.md § Conformance mapping](framework.md#conformance-mapping).
+See [framework.md § Conformance mapping](framework.md#conformance-mapping). Level interpretation: [maturity framework](../maturity/framework.md).
