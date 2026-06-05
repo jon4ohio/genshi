@@ -92,8 +92,9 @@ No application implementation code at v0.1.0.
 2. [Principles](foundation/principles/README.md)
 3. [Glossary](foundation/glossary/README.md)
 4. [Metamodel](foundation/metamodel/README.md)
-5. [Token architecture](system/tokens/architecture.md)
-6. [ADR index](evolution/decisions/index.md)
+5. [Assessment framework](operations/assessment/framework.md)
+6. [Token architecture](system/tokens/architecture.md)
+7. [ADR index](evolution/decisions/index.md)
 
 ## Contributing
 

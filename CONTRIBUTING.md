@@ -35,6 +35,8 @@ Please review:
 
 - [Manifesto](foundation/thesis/manifesto.md)
 - [Principles](foundation/principles/README.md)
+- [Glossary](foundation/glossary/README.md)
+- [Canon precedence](foundation/canon-precedence.md)
 - [Metamodel](foundation/metamodel/README.md)
 - [ADR index](evolution/decisions/index.md)
 - Open issues and discussions
@@ -128,7 +130,7 @@ Avoid:
 
 When introducing concepts:
 
-- Define terms explicitly
+- Cite [glossary](foundation/glossary/README.md) terms; do not paraphrase definitions
 - Explain relationships (see [metamodel relationships](foundation/metamodel/relationships.md))
 - Document constraints
 - Describe lifecycle implications

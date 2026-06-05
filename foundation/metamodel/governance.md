@@ -1,6 +1,6 @@
 # Governance Model (Metamodel)
 
-How decision rights attach to entities. This document governs **the framework’s own canon**. Adopters implement parallel structures in their organizations using [foundation/governance/](../governance/) (future depth).
+How decision rights attach to entities. This document governs **the framework’s own canon**. Operating rules: [foundation/governance/charter.md](../governance/charter.md). Adopters implement parallel structures in their organizations.
 
 ## Roles
 
@@ -36,7 +36,7 @@ Genshi defines three conformance labels for **adopter** programs—not for judgi
 | **Governed** | Aligned + lifecycle, owners, deprecation policy |
 | **Operational** | Governed + assessments, adoption metrics, evolution cadence |
 
-Details expand in `operations/maturity/` and `operations/assessment/`.
+Details: [operations/assessment/framework.md](../../operations/assessment/framework.md); maturity levels in `operations/maturity/` (future depth).
 
 ## Exception handling
 

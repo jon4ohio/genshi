@@ -24,4 +24,4 @@ Interpretive debt is how semantic failure becomes visible. Without naming it, or
 
 ## Genshi Interpretation
 
-Interpretive debt rises when rationale is lost, duplicates proliferate, exceptions normalize, and production contradicts canon. Assessments should treat semantic health as a first-class dimension. Retiring debt requires governed consolidation, decision backfill, or deprecation—not silent rewrites.
+Interpretive debt rises when rationale is lost, duplicates proliferate, exceptions normalize, and production contradicts canon. The **interpretive_debt** assessment dimension makes this visible—see [operations/assessment/framework.md](../../operations/assessment/framework.md). Retiring debt requires governed consolidation, decision backfill, or deprecation—not silent rewrites.

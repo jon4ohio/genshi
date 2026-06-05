@@ -24,4 +24,4 @@ Scale without preserved meaning produces duplicate artifacts, ambiguous tokens, 
 
 ## Genshi Interpretation
 
-Meaning is a **primary objective**, not a metamodel entity. Semantic discipline means one concept maps to one canonical expression with explicit aliases and recorded exceptions. "Semantic health" in assessments refers to meaning preservation, not inventory size.
+Meaning is a **primary objective**, not a metamodel entity. Semantic discipline means one concept maps to one canonical expression with explicit aliases and recorded exceptions. "Semantic health" is an assessment dimension—see [operations/assessment/framework.md](../../operations/assessment/framework.md)—not inventory size.

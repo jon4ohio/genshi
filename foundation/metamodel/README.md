@@ -3,7 +3,8 @@
 The Genshi metamodel defines **first-class entities**, how they relate, how they live and retire, and who governs them. Without this layer, Genshi is documentation. With it, Genshi is a system adopters can instantiate in their own architecture repositories.
 
 **Upstream:** [Manifesto](../thesis/manifesto.md), [Principles](../principles/), [Glossary](../glossary/README.md)  
-**Binding:** [ADR-0001](../../evolution/decisions/ADR-0001-why-genshi-exists.md), [ADR-0004](../../evolution/decisions/ADR-0004-metamodel-ontology.md)
+**Binding:** [ADR-0001](../../evolution/decisions/ADR-0001-why-genshi-exists.md), [ADR-0004](../../evolution/decisions/ADR-0004-metamodel-ontology.md), [ADR-0005](../../evolution/decisions/ADR-0005-glossary-entity-term-extension.md)  
+**Precedence:** [Canon layer precedence](../canon-precedence.md)
 
 Entities instantiate the language defined in the glossary. Term definitions live in `foundation/glossary/`; this metamodel defines entity types, attributes, and rules.
 
