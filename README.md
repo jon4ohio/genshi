@@ -20,9 +20,10 @@ Early contributors should expect significant changes as foundational decisions a
 
 Genshi is:
 
-- A **design system** — shared intent, artifacts, and quality for product experience
-- A **design system framework** — principles, metamodel, and decision discipline
-- A **design system operating model** — lifecycle, adoption, assessment, and maturity
+- A **design system framework** — principles, glossary, metamodel, and decision discipline for organizations building design systems
+- A **design system operating model** — lifecycle, adoption, assessment, and maturity patterns adopters instantiate
+
+Genshi is not itself an adopter's design system. It defines how organizations conceive, govern, and evolve one. See [glossary: framework vs design-system](foundation/glossary/framework.md).
 
 Genshi addresses:
 
@@ -74,7 +75,7 @@ Decision → Token → Component → Pattern
 
 ```text
 genshi/
-├── foundation/     thesis, principles, metamodel, governance
+├── foundation/     thesis, principles, glossary, metamodel, governance
 ├── system/         tokens, components, patterns, accessibility, content
 ├── operations/     lifecycle, adoption, assessment, maturity
 ├── evolution/      enhancements, decisions, releases
@@ -89,9 +90,10 @@ No application implementation code at v0.1.0.
 
 1. [Manifesto](foundation/thesis/manifesto.md)
 2. [Principles](foundation/principles/README.md)
-3. [Metamodel](foundation/metamodel/README.md)
-4. [Token architecture](system/tokens/architecture.md)
-5. [ADR index](evolution/decisions/index.md)
+3. [Glossary](foundation/glossary/README.md)
+4. [Metamodel](foundation/metamodel/README.md)
+5. [Token architecture](system/tokens/architecture.md)
+6. [ADR index](evolution/decisions/index.md)
 
 ## Contributing
 
