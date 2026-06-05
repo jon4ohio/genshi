@@ -22,7 +22,7 @@ Each dimension maps to glossary terms, metamodel rules, or principles. Adopters 
 
 | Dimension | What it measures | Primary glossary / principle |
 |-----------|------------------|------------------------------|
-| **maturity** | Program stage: intent, governance, adoption, measurement | [capability](../../foundation/glossary/capability.md); operations/maturity (future depth) |
+| **maturity** | Program stage: intent, governance, adoption, measurement | [capability](../../foundation/glossary/capability.md); [operations/maturity](../maturity/framework.md) |
 | **semantic_health** | Whether intended [meaning](../../foundation/glossary/meaning.md) is preserved across artifacts | Principle 06; [meaning](../../foundation/glossary/meaning.md) |
 | **interpretive_debt** | Gap between intended meaning and actual understanding or use | [interpretive-debt](../../foundation/glossary/interpretive-debt.md) |
 | **decision_coverage** | Stable artifacts justified by recorded [decisions](../../foundation/glossary/decision.md) | Principle 03; ADR-0003 |
@@ -136,6 +136,8 @@ Genshi conformance levels ([metamodel governance](../../foundation/metamodel/gov
 
 **Publication of artifacts does not satisfy Operational conformance.** Adoption and measurement are required.
 
+Maturity levels that interpret this mapping: [operations/maturity/framework.md](../maturity/framework.md).
+
 ---
 
 ## Assessment entity (metamodel)
@@ -148,7 +150,7 @@ An Assessment **instance** in adopter programs should declare:
 | `version` | Semver of assessment pack used |
 | `dimensions` | Subset or full set from this framework |
 | `evidence_required` | Per dimension, from evidence types above |
-| `maturity_levels` | Aligned to operations/maturity when published |
+| `maturity_levels` | Aligned, Governed, Operational — see [maturity framework](../maturity/framework.md) |
 
 Framework canon for assessments lives in `operations/assessment/`. Adopter instances live in their own architecture repositories.
 
@@ -156,7 +158,7 @@ Framework canon for assessments lives in `operations/assessment/`. Adopter insta
 
 ## What this framework is not
 
-- A maturity model (see `operations/maturity/` for level definitions—future depth)
+- Level definitions and progression interpretation (see [maturity framework](../maturity/framework.md))
 - A scoring rubric with numeric weights
 - A JSON schema or API
 - A CI check or linter configuration

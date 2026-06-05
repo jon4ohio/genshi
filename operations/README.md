@@ -11,7 +11,7 @@ Operations canon **instantiates** metamodel operational entities (Capability, As
 | Area | Purpose | Status |
 |------|---------|--------|
 | [assessment/](assessment/) | Evaluation dimensions, evidence, conformance mapping | Canon: [framework.md](assessment/framework.md) |
-| [maturity/](maturity/) | Maturity levels and progression criteria | Stub (future depth) |
+| [maturity/](maturity/) | Maturity levels and progression criteria | Canon: [framework.md](maturity/framework.md) |
 | [adoption/](adoption/) | Adoption patterns and migration | Stub |
 | [lifecycle/](lifecycle/) | Program-level lifecycle (distinct from entity lifecycle) | Stub — see [metamodel/lifecycle](../foundation/metamodel/lifecycle.md) for entity states |
 

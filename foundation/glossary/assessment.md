@@ -25,4 +25,4 @@ Without assessment, meaning preservation and interpretive debt remain aspiration
 
 ## Genshi Interpretation
 
-Assessment is a metamodel entity; instances live in `operations/assessment/`. Framework canon is [framework.md](../../operations/assessment/framework.md). Meaning and interpretive-debt are assessment dimensions, not separate entities.
+Assessment is a metamodel entity; instances live in `operations/assessment/`. Framework canon is [framework.md](../../operations/assessment/framework.md). Maturity levels interpret assessment results as program stage—see [operations/maturity/framework.md](../../operations/maturity/framework.md). Meaning and interpretive-debt are assessment dimensions, not separate entities.

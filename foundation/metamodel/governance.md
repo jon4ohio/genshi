@@ -36,7 +36,7 @@ Genshi defines three conformance labels for **adopter** programs—not for judgi
 | **Governed** | Aligned + lifecycle, owners, deprecation policy |
 | **Operational** | Governed + assessments, adoption metrics, evolution cadence |
 
-Details: [operations/assessment/framework.md](../../operations/assessment/framework.md); maturity levels in `operations/maturity/` (future depth).
+Details: [operations/assessment/framework.md](../../operations/assessment/framework.md); [operations/maturity/framework.md](../../operations/maturity/framework.md).
 
 ## Exception handling
 

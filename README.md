@@ -14,7 +14,7 @@ Phase 1 delivered principles, governance, metamodel ontology, glossary, and the 
 
 **The framework should not yet be considered stable for production adoption.**
 
-Contributors should expect change in Phase 2 stubs (maturity, adoption, lifecycle) and deferred items (schemas, tooling).
+Contributors should expect change in Phase 2 stubs (adoption, lifecycle) and deferred items (schemas, tooling).
 
 ## What Genshi Is
 
@@ -93,8 +93,9 @@ No application implementation code at v0.2.0.
 3. [Glossary](foundation/glossary/README.md)
 4. [Metamodel](foundation/metamodel/README.md)
 5. [Assessment framework](operations/assessment/framework.md)
-6. [Token architecture](system/tokens/architecture.md)
-7. [ADR index](evolution/decisions/index.md)
+6. [Maturity framework](operations/maturity/framework.md)
+7. [Token architecture](system/tokens/architecture.md)
+8. [ADR index](evolution/decisions/index.md)
 
 ## Contributing
 
@@ -129,7 +130,7 @@ Directional — not fixed commitments:
 
 ### Phase 2 — System Architecture (in progress)
 
-- Operations canon — [assessment](operations/assessment/framework.md) shipped; lifecycle, adoption, maturity remain stubs
+- Operations canon — [assessment](operations/assessment/framework.md) and [maturity](operations/maturity/framework.md) shipped; lifecycle and adoption remain stubs
 - Component and pattern taxonomy
 - Metadata standards
 

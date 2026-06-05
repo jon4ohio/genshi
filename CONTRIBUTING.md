@@ -6,7 +6,7 @@ Thank you for your interest in contributing.
 
 **Framework v0.2.0** — Phase 1 foundations complete; Phase 2 system architecture in progress.
 
-Phase 2 areas (maturity, adoption, lifecycle stubs; component and pattern taxonomy) may evolve significantly as the framework matures.
+Phase 2 areas (adoption, lifecycle stubs; component and pattern taxonomy) may evolve significantly as the framework matures.
 
 Contributors should expect change and should avoid assuming that current structures represent permanent decisions.
 

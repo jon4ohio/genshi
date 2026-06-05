@@ -11,7 +11,7 @@ Documentation portal for readers. **Canon** lives in `foundation/`, `system/`, `
 | Practitioners | [Principles](../foundation/principles/README.md) |
 | Terminology | [Glossary](../foundation/glossary/README.md) |
 | Architects | [Metamodel](../foundation/metamodel/README.md) |
-| Program leads | [Assessment framework](../operations/assessment/framework.md) |
+| Program leads | [Assessment framework](../operations/assessment/framework.md), [Maturity framework](../operations/maturity/framework.md) |
 | Token leads | [Token architecture](../system/tokens/architecture.md) |
 
 ## Reading order (canon establishment)
@@ -23,7 +23,8 @@ Documentation portal for readers. **Canon** lives in `foundation/`, `system/`, `
 5. [Canon precedence](../foundation/canon-precedence.md)  
 6. [Metamodel](../foundation/metamodel/README.md)  
 7. [Assessment framework](../operations/assessment/framework.md)  
-8. [Token architecture](../system/tokens/architecture.md)  
+8. [Maturity framework](../operations/maturity/framework.md)  
+9. [Token architecture](../system/tokens/architecture.md)  
 
 ## Releases
 

@@ -86,5 +86,6 @@ Layer conflicts (glossary vs metamodel vs principle): [canon-precedence.md](../c
 | [metamodel/governance.md](../metamodel/governance.md) | Decision rights matrix, conformance levels, governance hierarchy |
 | This charter | Framework operating rules, change path, exception discipline |
 | [operations/assessment/framework.md](../../operations/assessment/framework.md) | How adopters demonstrate conformance |
+| [operations/maturity/framework.md](../../operations/maturity/framework.md) | How assessment evidence maps to maturity levels and progression |
 
 Adopters implement parallel structures; Genshi supplies vocabulary and artifact types.
