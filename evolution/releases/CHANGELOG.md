@@ -2,6 +2,46 @@
 
 All notable framework canon changes are documented here. Versioning follows [semantic versioning](https://semver.org/) for the **framework** (not npm packages).
 
+## [0.2.1] — 2026-06-05
+
+### Summary
+
+Framework v0.2.1 introduces the Genshi Maturity Framework—the first complete operational interpretation layer built on assessment. Maturity interprets assessment evidence as program stage and progression using three levels isomorphic to conformance (Aligned, Governed, Operational), without ontology expansion.
+
+### Added
+
+**Operations**
+
+- [Maturity framework](../../operations/maturity/framework.md) — Level definitions, trust types, below Aligned, progression and regression rules, canon-scope note
+- [Validation scenarios](../../operations/maturity/validation-scenarios.md) — Maintainer validation artifact (not canon); eight inter-rater classification scenarios
+
+**Evolution**
+
+- [ENH-0002](../enhancements/ENH-0002-maturity-framework.md) — Operations Canon; resolved with validation pass and release decision
+
+### Changed
+
+- [operations/assessment/framework.md](../../operations/assessment/framework.md) — Cross-links to maturity framework; `maturity_levels` defined
+- [operations/maturity/README.md](../../operations/maturity/README.md) — Canon portal and validation artifact index
+- [operations/README.md](../../operations/README.md) — Maturity status: Canon
+- [foundation/metamodel/governance.md](../../foundation/metamodel/governance.md) — Maturity framework link
+- [foundation/glossary/assessment.md](../../foundation/glossary/assessment.md) — Maturity interpretation reference
+- [foundation/governance/charter.md](../../foundation/governance/charter.md) — Maturity framework in relationship table
+- [README.md](../../README.md) — v0.2.1; reading path includes maturity
+- [CONTRIBUTING.md](../../CONTRIBUTING.md) — Maturity removed from evolving-stub list
+- [docs/README.md](../../docs/README.md) — Reading order includes maturity framework
+
+### Phase status
+
+- **Phase 1 — Foundations:** Complete
+- **Phase 2 — System Architecture:** In progress (assessment and maturity canon shipped; adoption and lifecycle stubs remain)
+
+### Notes
+
+No new ADR. Maturity levels are isomorphic to existing conformance levels. Below Aligned is an assessment outcome, not a fourth maturity level. Validation scenarios are maintainer infrastructure—not binding canon.
+
+---
+
 ## [0.2.0] — 2026-06-05
 
 ### Summary

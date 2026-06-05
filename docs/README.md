@@ -28,4 +28,4 @@ Documentation portal for readers. **Canon** lives in `foundation/`, `system/`, `
 
 ## Releases
 
-- [CHANGELOG](../evolution/releases/CHANGELOG.md) — framework v0.2.0
+- [CHANGELOG](../evolution/releases/CHANGELOG.md) — framework v0.2.1
