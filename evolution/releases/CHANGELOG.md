@@ -2,6 +2,20 @@
 
 All notable framework canon changes are documented here. Versioning follows [semantic versioning](https://semver.org/) for the **framework** (not npm packages).
 
+## [0.1.1] — 2026-06-05
+
+### Added
+
+- [Apache 2.0 license](../../LICENSE)
+- [CODE_OF_CONDUCT.md](../../CODE_OF_CONDUCT.md)
+- [CONTRIBUTING.md](../../CONTRIBUTING.md)
+- [SECURITY.md](../../SECURITY.md)
+- Public-facing [README.md](../../README.md) for repository visitors
+
+### Notes
+
+Open-source governance infrastructure for public repository preparation. Enable private vulnerability reporting in GitHub Settings before going public.
+
 ## [0.1.0] — 2026-06-05
 
 ### Added
