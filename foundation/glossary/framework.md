@@ -23,4 +23,4 @@ Without a framework boundary, methodology collapses into tooling choices. Genshi
 
 ## Genshi Interpretation
 
-Genshi is a **design system framework**, not a component library. It is currently in foundational architecture phase: language and metamodel precede interfaces and tooling.
+Genshi is a **design system framework**, not a component library. At v0.2.0, Phase 1 foundations (language, metamodel, governance, decisions) are complete; interfaces and tooling remain Phase 3+ direction.

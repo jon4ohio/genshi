@@ -88,7 +88,7 @@ Reviews evidence against metamodel invalid states:
 5. Stable Principle contradicting accepted Decision  
 6. Accepted Enhancement without linked Decision or Release after agreed window  
 
-Assessment of invalid states is **manual review** at v0.1.0—evidence-based, not automated.
+Assessment of invalid states is **manual review** at v0.2.0—evidence-based, not automated.
 
 ---
 
