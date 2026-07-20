@@ -6,6 +6,17 @@ The project explores how design systems can move beyond UI libraries and become 
 
 [Manifesto](foundation/thesis/manifesto.md) · [Decisions](evolution/decisions/index.md) · [Contributing](CONTRIBUTING.md) · [License](LICENSE)
 
+## Production implementation
+
+The **[genshi-design-system](https://github.com/jon4ohio/genshi-design-system)** repository is the public OSS home for Genshi packages, releases, Storybook, and the layered token architecture (Core → Intent → Component).
+
+**This repository (Genshi 原子)** is the **Research & Validation** lineage — architecture exploration, SeamKit adaptation experiments, proof-of-concepts, and validation evidence that informed the production implementation. It is preserved as historical record; it is not deprecated.
+
+| Repository | Role |
+|------------|------|
+| **Genshi 原子** (this repo) | Research & Validation — framework canon, exploration, evidence |
+| **genshi-design-system** | Production implementation — `@genshi/*` packages, releases, docs |
+
 ## Status
 
 **Framework v0.2.1** — Phase 1 foundations complete; Phase 2 system architecture in progress.
