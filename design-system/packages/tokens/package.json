@@ -1,0 +1,19 @@
+{
+  "name": "@genshi/tokens",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./css": "./dist/tokens.css",
+    "./aliases": "./dist/tokens.css",
+    "./ts": "./dist/tokens.ts",
+    "./tailwind": "./dist/tailwind-preset.js"
+  },
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "devDependencies": {
+    "@tokens-studio/sd-transforms": "^1.2.9",
+    "style-dictionary": "^4.3.0"
+  }
+}
