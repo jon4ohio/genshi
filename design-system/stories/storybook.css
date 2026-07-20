@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap');
+
+:root {
+  font-family: Rubik, system-ui, sans-serif;
+  color: var(--gsh-color-text-primary);
+  background: var(--gsh-color-surface-default);
+}
+
+body {
+  margin: 0;
+}
