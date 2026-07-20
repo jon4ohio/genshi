@@ -79,6 +79,7 @@ This repository adopts [Anchor](https://github.com/jon4ohio/anchor) v0.2 for **s
 | Handoff | [handoff.md](handoff.md) | Session continuity |
 | Evidence | [evidence/](evidence/) | Anchor validation observations |
 | Reference impl gaps | [design-system/FOUNDATION-GAPS.md](../design-system/FOUNDATION-GAPS.md) | v0.1 usage findings |
+| Production ADRs | [genshi-design-system docs/adr](https://github.com/jon4ohio/genshi-design-system/blob/main/docs/adr/index.md) | Accepted architecture |
 
 ## Start reading
 
